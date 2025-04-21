@@ -31,14 +31,14 @@ AI + Web Scraping + Full-Stack + 3D Simulations
 
 ### 📊 GitHub Stats:
 
-![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=josephOsemba&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josephOsemba&layout=compact&theme=github_dark)
+![bAtasi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=batasi&show_icons=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=batasi&layout=compact&theme=github_dark)
 
 ---
 
 ### 🔥 Streaks & Trophies:
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=josephOsemba&theme=algolia&margin-w=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=batasi&theme=algolia&margin-w=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
