@@ -62,22 +62,7 @@ AI + Web Scraping + Full-Stack + 3D Simulations
 
 ### 🧑‍💻 Featured Projects:
 
-#### [**TrainTrack**](https://traintrack.javapa.com)  
-An innovative train management system for real-time tracking and scheduling.
 
-#### [**Pace Driving School**](https://pacedrivingschool.co.ke)  
-A comprehensive platform for managing driving school registrations, courses, and scheduling.
-
-#### [**Global Ministries Daily Bread**](https://globalministries-dailybread.org)  
-A non-profit platform designed for daily spiritual nourishment and community outreach.
-
-#### [**JavaPA**](https://javapa.com)  
-My personal business venture offering customized IT solutions including payroll systems, stock management, and more.
-
-#### [**MOW HRM**](https://mowhrm.com)  
-A human resource management system tailored for managing employee data and payrolls for organizations.
-
----
 
 ### ✨ Let’s Build Something Great!
 > “Turning ideas into code and code into reality.”
