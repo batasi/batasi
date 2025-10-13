@@ -14,7 +14,7 @@ I’m a **full-stack developer** passionate about building **intelligent, high-p
 - **Frontend:** Vue.js (Inertia.js), React (Vite), TailwindCSS, Composition API  
 - **AI & Automation:** Intelligent data agents, categorization, analytics, decision support  
 - **System Integration:** Node.js bridges, Electron apps, local & network-based services  
-- **Databases:** MySQL, SQLite, query optimization, schema design  
+- **Databases:** MySQL, SQLite, MongoDB, PostgreSQL, query optimization, schema design  
 - **Dev Tools & Workflow:** Git, Composer, npm, VS Code, CI/CD, Docker  
 
 ---
@@ -28,7 +28,7 @@ I’m a **full-stack developer** passionate about building **intelligent, high-p
 
 ### 🧰 Tech Stack
 
-![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
+![Laravel](https://img.shields.io/badge/-Laravel-transparent?style=flat-square&logo=laravel)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
 ![Inertia.js](https://img.shields.io/badge/-Inertia.js-black?style=flat-square&logo=inertia)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
