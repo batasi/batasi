@@ -29,18 +29,18 @@ I’m a **full-stack developer** passionate about building **intelligent, high-p
 ### 🧰 Tech Stack
 
 ![Laravel](https://img.shields.io/badge/-Laravel-transparent?style=flat-square&logo=laravel)
-![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
-![Inertia.js](https://img.shields.io/badge/-Inertia.js-black?style=flat-square&logo=inertia)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
-![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite)
-![Electron](https://img.shields.io/badge/-Electron-black?style=flat-square&logo=electron)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Vue.js](https://img.shields.io/badge/-Vue.js-transparent?style=flat-square&logo=vue.js)
+![Inertia.js](https://img.shields.io/badge/-Inertia.js-transparent?style=flat-square&logo=inertia)
+![PHP](https://img.shields.io/badge/-PHP-transparent?style=flat-square&logo=php)
+![JavaScript](https://img.shields.io/badge/-JavaScript-transparent?style=flat-square&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-transparent?style=flat-square&logo=node.js)
+![Python](https://img.shields.io/badge/-Python-transparent?style=flat-square&logo=python)
+![MySQL](https://img.shields.io/badge/-MySQL-transparent?style=flat-square&logo=mysql)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-transparent?style=flat-square&logo=tailwindcss)
+![Vite](https://img.shields.io/badge/-Vite-transparent?style=flat-square&logo=vite)
+![Electron](https://img.shields.io/badge/-Electron-transparent?style=flat-square&logo=electron)
+![Docker](https://img.shields.io/badge/-Docker-transparent?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/-Git-transparent?style=flat-square&logo=git)
 
 ---
 
