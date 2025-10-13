@@ -1,21 +1,21 @@
 <h1 align="center">👋 Hi, I'm Engineer bAtasi!</h1>
-<h3 align="center">Full-Stack Laravel & Vue.js Developer | AI Integrator | Automation Engineer</h3>
+<h3 align="center">Full-Stack Developer | AI Integrator | Automation Engineer</h3>
 
 ---
 
 🚀 Welcome to my GitHub!  
-I’m a **full-stack developer** passionate about building **intelligent, high-performance systems** that blend **AI, automation, and modern web technologies**.
+I’m a **full-stack developer** passionate about building **intelligent, high-performance systems** that combine **AI, automation, and modern web technologies**.
 
 ---
 
 ### 💼 Core Specialties
 
-- **Backend**: Laravel, PHP, REST APIs, Artisan automation, event broadcasting  
-- **Frontend**: Vue.js (Inertia.js), React (Vite), TailwindCSS, Composition API  
-- **AI & Automation**: Intelligent data agents, categorization, analytics, decision support  
-- **System Integration**: Node.js bridges, Electron apps, local & network-based services  
-- **Databases**: MySQL, SQLite, query optimization, schema design  
-- **Dev Tools & Workflow**: Git, Composer, npm, VS Code, CI/CD, Docker  
+- **Backend:** Laravel, PHP, REST APIs, Artisan automation, event broadcasting  
+- **Frontend:** Vue.js (Inertia.js), React (Vite), TailwindCSS, Composition API  
+- **AI & Automation:** Intelligent data agents, categorization, analytics, decision support  
+- **System Integration:** Node.js bridges, Electron apps, local & network-based services  
+- **Databases:** MySQL, SQLite, query optimization, schema design  
+- **Dev Tools & Workflow:** Git, Composer, npm, VS Code, CI/CD, Docker  
 
 ---
 
@@ -55,8 +55,8 @@ I’m a **full-stack developer** passionate about building **intelligent, high-p
 
 ### 📊 GitHub Stats
 
-![bAtasi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=batasi&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=batasi&layout=compact&theme=github_dark)
+![bAtasi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=batasi&show_icons=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=batasi&layout=compact&theme=transparent)
 
 ---
 
@@ -69,7 +69,7 @@ I’m a **full-stack developer** passionate about building **intelligent, high-p
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/solomon-batasi-27a926265)
-[![x](https://img.shields.io/badge/x-E4405F?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/solohbatasi/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/solohbatasi)
 
 ---
 
