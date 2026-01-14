@@ -66,8 +66,7 @@ I’m a **full-stack developer** passionate about building **intelligent, high-p
 
 ### 🏆 Achievements
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=batasi&theme=algolia&margin-w=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=batasi)](https://github.com/batasi/github-profile-trophy)
 ---
 
 ### 🌐 Connect with Me
