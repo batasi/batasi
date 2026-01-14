@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Engineer bAtasi!</h1>
+<h1 align="center"> Hi, I'm Engineer bAtasi!</h1>
 <h3 align="center">Full-Stack Developer | AI Integrator | Automation Engineer</h3>
 
 ---
@@ -66,7 +66,7 @@ I’m a **full-stack developer** passionate about building **intelligent, high-p
 
 ### 🏆 Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=batasi)](https://github.com/batasi/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=batasi&theme=onedark)](https://github.com/batasi/github-profile-trophy)
 ---
 
 ### 🌐 Connect with Me
