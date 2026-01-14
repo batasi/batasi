@@ -56,10 +56,13 @@ I’m a **full-stack developer** passionate about building **intelligent, high-p
 
 ### 📊 GitHub Stats
 
-![bAtasi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=batasi&show_icons=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=batasi&layout=compact&theme=transparent)
-
+![](https://github-readme-stats.vercel.app/api?username=josephOsemba&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=josephOsemba&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=josephOsemba&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🏆 Achievements
 
