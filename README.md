@@ -3,12 +3,12 @@
 
 ---
 
-🚀 Welcome to my GitHub!  
+ Welcome to my GitHub!  
 I’m a **full-stack software engineer** passionate about building **intelligent, high-performance systems** that combine **AI, automation, and modern web technologies**.
 
 ---
 
-### 💼 Core Specialties
+###  Core Specialties
 
 - **Backend:** Laravel, PHP, REST APIs, Artisan automation, event broadcasting  
 - **Frontend:** Vue.js (Inertia.js), React (Vite), TailwindCSS, Composition API  
@@ -19,14 +19,14 @@ I’m a **full-stack software engineer** passionate about building **intelligent
 
 ---
 
-### 🧠 What Drives Me
+###  What Drives Me
 
 > Crafting **fast, scalable, and intelligent** applications that make technology feel seamless.  
 > I love merging AI logic with everyday systems to enhance productivity and decision-making.
 
 ---
 
-### 🧰 Tech Stack
+###  Tech Stack
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
@@ -51,36 +51,36 @@ I’m a **full-stack software engineer** passionate about building **intelligent
 
 ---
 
-### 🧩 Featured Work
+###  Featured Work
 
-- 🤖 **AI Agents & Integrations** — Automating data insights, categorization, and analytics  
-- ⚙️ **System Automation Tools** — Streamlining operations through Artisan commands & Node bridges  
-- 💡 **Modern Web Apps** — Building dynamic, reactive experiences with Laravel + Vue + Inertia  
-- 🔐 **API Design** — Secure RESTful endpoints with JWT Auth and real-time updates  
+-  **AI Agents & Integrations** — Automating data insights, categorization, and analytics  
+-  **System Automation Tools** — Streamlining operations through Artisan commands & Node bridges  
+-  **Modern Web Apps** — Building dynamic, reactive experiences with Laravel + Vue + Inertia  
+-  **API Design** — Secure RESTful endpoints with JWT Auth and real-time updates  
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=batasi&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=batasi&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=batasi&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
 
-### ✍️ Random Dev Quote
+###  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🏆 Achievements
+###  Achievements
 
 [![](https://github-profile-trophy.vercel.app/?username=batasi&theme=onedark)](https://github.com/batasi/github-profile-trophy)
 ---
 
-### 🌐 Connect with Me
+###  Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/solomon-batasi-27a926265)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/solohbatasi)
 
 ---
 
-### ✨ Philosophy
+###  Philosophy
 > “Engineering intelligent solutions that connect people, data, and systems seamlessly.”
