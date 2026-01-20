@@ -62,7 +62,7 @@ I’m a **full-stack software engineer** passionate about building **intelligent
 
 ###  GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=batasi&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/?user=batasi&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=batasi&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=batasi&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
