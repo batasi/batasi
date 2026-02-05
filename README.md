@@ -6,7 +6,8 @@
  Welcome to my GitHub!  
 I’m a **full-stack software engineer** passionate about building **intelligent, high-performance systems** that combine **AI, automation, and modern web technologies**.
 
-![Profile Views](https://komarev.com/ghpvc/?username=batasi&label=Profile%20Views&color=0e75b6&style=flat)
+###  Profile Views
+![Profile Views](https://shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fbatasi%2Fbatasi.json&label=Profile%20Views&color=blue)
 ###  Core Specialties
 
 - **Backend:** Laravel, PHP, REST APIs, Artisan automation, event broadcasting  
