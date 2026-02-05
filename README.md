@@ -1,13 +1,12 @@
 <h1 align="center"> Hi, I'm Engineer bAtasi!</h1>
 <h3 align="center">Full-Stack Engineer | AI Integrator | Automation Engineer</h3>
 
+![Profile Views](https://komarev.com/ghpvc/?username=batasi&color=blue)
 ---
 
  Welcome to my GitHub!  
 I’m a **full-stack software engineer** passionate about building **intelligent, high-performance systems** that combine **AI, automation, and modern web technologies**.
 
-### Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=batasi&color=blue)
 ###  Core Specialties
 
 - **Backend:** Laravel, PHP, REST APIs, Artisan automation, event broadcasting  
