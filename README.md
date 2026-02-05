@@ -6,8 +6,8 @@
  Welcome to my GitHub!  
 I’m a **full-stack software engineer** passionate about building **intelligent, high-performance systems** that combine **AI, automation, and modern web technologies**.
 
-###  Profile Views
-![Profile Views](https://shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fbatasi%2Fbatasi.json&label=Profile%20Views&color=blue)
+### 👀 Profile Views
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=batasi.batasi)
 ###  Core Specialties
 
 - **Backend:** Laravel, PHP, REST APIs, Artisan automation, event broadcasting  
