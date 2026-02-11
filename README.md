@@ -65,9 +65,6 @@ I’m a **full-stack software engineer** passionate about building **intelligent
 ![](https://nirzak-streak-stats.vercel.app/?user=batasi&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=batasi&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-#### Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=batasi&layout=compact&theme=shadow_blue&hide_border=false&langs_count=8)
 ---
 
 ###  Random Dev Quote
